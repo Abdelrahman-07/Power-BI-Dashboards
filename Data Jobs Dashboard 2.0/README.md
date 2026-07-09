@@ -1,7 +1,7 @@
 # Data Jobs Dashboard 2.0 w/ Power BI
 
 <a>
-  <img src="screenshots/first page.png" alt="Data Jobs Dashboard Picture">
+  <img src="first_page.png" alt="Data Jobs Dashboard Picture">
 </a>
 
 
