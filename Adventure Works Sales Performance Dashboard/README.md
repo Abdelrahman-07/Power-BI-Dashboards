@@ -14,7 +14,7 @@ You can find the file for the dashboard here: [`AdventureWorks_Dashboard.pbix`](
 
 ## Skills Showcased
 
-This project put key Power BI features into practice. Here's what we mastered:
+This project put key Power BI features into practice. Here's what IS mastered:
 
 * **🎨 Dashboard Design:** Crafting an intuitive and visually appealing report layout.
 * **⚙️ Power Query ETL:** Performing data cleaning, shaping, and transformation.
