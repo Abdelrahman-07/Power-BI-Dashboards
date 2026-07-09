@@ -1,7 +1,7 @@
 # Adventure Works Sales Performance Dashboard
 
 <a>
-  <img src="screenshots/page_1.png" alt="Data Jobs Dashboard Picture">
+  <img src="page_1.png" alt="Data Jobs Dashboard Picture">
 </a>
 
 
@@ -31,7 +31,7 @@ This project put key Power BI features into practice. Here's what IS mastered:
 
 ## Dashboard Overview
 
-![Data Jobs Dashboard v2.0](page_2.png) 
+![Data Jobs Dashboard v2.0](page_1.png) 
 
 This page gives an overview on the most important statistics and metrics such as **KPIs, the most ordered product categories, which country has the most orders, and monthly revenue**.
 <br></br>
