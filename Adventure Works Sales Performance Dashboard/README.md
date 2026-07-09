@@ -44,7 +44,7 @@ This page goes into detail about the **company profits, revenue, and returns**.
 <br></br>
 <br></br>
 <br></br>
-![Data Jobs Dashboard v2.0](Page_3.png) 
+![Data Jobs Dashboard v2.0](Page_4.png) 
 
 This page focuses on **bike sales data** to find out the **type, total orders, and total revenue** for each type of bike.
 
