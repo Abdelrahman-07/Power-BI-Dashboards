@@ -44,7 +44,7 @@ This page goes into detail about the **company profits, revenue, and returns**.
 <br></br>
 <br></br>
 <br></br>
-![Adventure Works Dashboard](Page_4.png) 
+![Adventure Works Dashboard](Page_3.png) 
 
 This page focuses on **bike sales data** to find out the **type, total orders, and total revenue** for each type of bike.
 
