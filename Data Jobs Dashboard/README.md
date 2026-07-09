@@ -1,7 +1,7 @@
 # Data Jobs Dashboard w/ Power BI
 
 
-  <img src="Screenshots\page 1.png" alt="Data Jobs Dashboard">
+  <img src="page_1.png" alt="Data Jobs Dashboard">
 </a>
 
 
@@ -15,7 +15,7 @@ You can find the file for the dashboard here: [`Data_Jobs_Dashboard.pbix`](Data_
 
 ## Skills Showcased
 
-This project was a journey through key Power BI features. Here's a look at what we mastered:
+This project was a journey through key Power BI features. Here's a look at what I mastered:
 
 -   **⚙️ Data Transformation (ETL) with Power Query:** Cleaned, shaped, and prepared the raw data for analysis by handling blanks, changing data types, and creating new columns.
 -   **🧮 Implicit Measures:** Formulated measures to derive key insights and KPIs like `Median Yearly Salary` and `Job Count`.
@@ -35,13 +35,13 @@ This project was a journey through key Power BI features. Here's a look at what 
 
 ### Page 1: High-Level Market View
 
-![Data Jobs Dashboard Page 1](Screenshots/page%201.png)  
+![Data Jobs Dashboard Page 1](page_1.png)  
 
-This is your mission control for the data job market. It showcases key KPIs like total job count, median salaries, and top job titles to give you a quick understanding of what's happening in the job market at a glance.
+This is the main page of the dashboard. It showcases key KPIs like total job count, median salaries, and top job titles to give you a quick understanding of what's happening in the job market at a glance.
 
 ### Page 2: Job Title Drill Through
 
-![Data Jobs Dashboard Page 2](Screenshots/page%202.png)  
+![Data Jobs Dashboard Page 2](page_2.png)  
 
 This is the deep-dive page. From the main dashboard, you can drill through to this view to get specific details for a single job title, including salary ranges, work-from-home stats, top hiring platforms, and a global map of job locations.
 
