@@ -12,20 +12,6 @@ Data analysis is crucial to improve a company's sales performance which can intu
 ### Dashboard File
 You can find the file for the dashboard here: [`AdventureWorks_Dashboard.pbix`](AdventureWorks_Report.pbix).  
 
-## Skills Showcased
-
-This project put key Power BI features into practice. Here's what I mastered:
-
-* **🎨 Dashboard Design:** Crafting an intuitive and visually appealing report layout.
-* **⚙️ Power Query ETL:** Performing data cleaning, shaping, and transformation.
-* **🔗 Data Modeling:** Building efficient data models with relationships (Star Schema principles).
-* **🧮 DAX Fundamentals:** Creating calculations and aggregations to derive key insights.
-* **📊 Visualizations Utilized:**
-    * **📈 Core Charts:** Column, Bar, Line, and Area charts for comparisons and trends.
-    * **🗺️ Map Charts:** For displaying geospatial data.
-    * **🔢 Cards:** To highlight key performance indicators.
-    * **📋 Tables:** For presenting detailed, tabular information.
-    * **🎨 Chart Variety:** Selecting from common and uncommon chart types for effective storytelling.
 
 ---
 
