@@ -39,6 +39,12 @@ This project was a journey through key Power BI features. Here's a look at what 
 
 This is the main page of the dashboard. It showcases key KPIs like total job count, median salaries, and top job titles to give you a quick understanding of what's happening in the job market at a glance.
 
+### Page 1: Specific Info For Selected Job
+
+![Data Jobs Dashboard Page 1 drill](page_1_drill.png)  
+
+This is an interactive portion of the main page. It lets you view specific info for a certain job when you click on the corresponding bar in the bar chart.
+
 ### Page 2: Job Title Drill Through
 
 ![Data Jobs Dashboard Page 2](page_2.png)  
