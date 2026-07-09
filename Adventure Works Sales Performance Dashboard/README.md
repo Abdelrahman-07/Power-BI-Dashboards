@@ -14,7 +14,7 @@ You can find the file for the dashboard here: [`AdventureWorks_Dashboard.pbix`](
 
 ## Skills Showcased
 
-This project put key Power BI features into practice. Here's what IS mastered:
+This project put key Power BI features into practice. Here's what I mastered:
 
 * **🎨 Dashboard Design:** Crafting an intuitive and visually appealing report layout.
 * **⚙️ Power Query ETL:** Performing data cleaning, shaping, and transformation.
@@ -44,7 +44,7 @@ This page goes into detail about the **company profits, revenue, and returns**.
 <br></br>
 <br></br>
 <br></br>
-![Adventure Works Dashboard](Page_4.png) 
+![Adventure Works Dashboard](Page_3.png) 
 
 This page focuses on **bike sales data** to find out the **type, total orders, and total revenue** for each type of bike.
 
